@@ -1,4 +1,4 @@
-from onebatchpam import swap_eager
+from .pam import swap_eager
 import numpy as np
 from sklearn.metrics import pairwise_distances
 

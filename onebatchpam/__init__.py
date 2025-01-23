@@ -1,1 +1,1 @@
-from onebatch import one_batch_pam
+from .onebatch import one_batch_pam
